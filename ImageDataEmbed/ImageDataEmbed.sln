@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDataEmbed", "ImageDataEmbed\ImageDataEmbed.csproj", "{A5F75CCE-8593-451D-8318-87ABE2952130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEmbedUI", "DataEmbedUI\DataEmbedUI.csproj", "{B0F6F917-E455-4EAE-86AC-B0EC0252B06B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5F75CCE-8593-451D-8318-87ABE2952130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F75CCE-8593-451D-8318-87ABE2952130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F75CCE-8593-451D-8318-87ABE2952130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F75CCE-8593-451D-8318-87ABE2952130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F6F917-E455-4EAE-86AC-B0EC0252B06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F6F917-E455-4EAE-86AC-B0EC0252B06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F6F917-E455-4EAE-86AC-B0EC0252B06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F6F917-E455-4EAE-86AC-B0EC0252B06B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF5651F-1788-4959-9070-ABD9222E5E60}
+	EndGlobalSection
+EndGlobal
